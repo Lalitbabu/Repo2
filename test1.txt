@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is E092-D9EA
-
- Directory of C:\Users\Lalit\Desktop\My NeProject
-
-26-Aug-18  11:38 PM    <DIR>          .
-26-Aug-18  11:38 PM    <DIR>          ..
-26-Aug-18  11:38 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  76,545,867,776 bytes free
+ Change  1
